@@ -1,2 +1,2 @@
 # Math_Function
- Math_Function in Python
+ Math Function in Python
